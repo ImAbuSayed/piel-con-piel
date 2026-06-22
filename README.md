@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-con-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Piel con piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-con-piel/) |
+| **Get License** | [License this song: Piel con piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-con-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1f0a3b25c9c36bc6dd8a7ea4b93b61367aeada645e4bfb7d6793963ece3b735f` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

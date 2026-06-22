@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel con piel
+
+This log tracks the cryptographic history and versioning for the song **Piel con piel** (piel-con-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T05:01:47.336871 | `v1` | `1f0a3b25c9c36bc6dd8a7ea4b93b61367aeada645e4bfb7d6793963ece3b735f` | `802c537f27ca2fd67ec88ffc458a227dfe6ebfc2ff0fb52cdf92231f9a4d7a3a` | `2026-06-23_piel-con-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
