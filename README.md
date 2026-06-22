@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-con-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel con piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-con-piel/) |
+| **Get License** | [Obtain a Music License for Piel con piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-con-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Piel con piel, en la noche sin final
+> Tu movimiento me hace suspirar
+> Piel con piel, no puedo parar
+> Este fuego que no sé controlar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
